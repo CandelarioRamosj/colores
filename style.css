@@ -1,0 +1,28 @@
+body {
+    background-color: white;
+}
+
+h2 {
+    background-color: black;
+    color: snow;
+}
+
+span {
+    color: aqua;
+}
+
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+
+main {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+div {
+    display: block;
+}
