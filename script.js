@@ -4,5 +4,5 @@ function colores (){
     let dato = document.getElementById('dato')
 
     body.style.backgroundColor = color
-    dato.innerHTML = color
+    dato.innerHTML = color.toUpperCase()
 }
